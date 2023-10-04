@@ -1,4 +1,4 @@
-# SmartCup Arduino Firmware
+# SmartCup Arduino Firmware 
 
 This repository houses the firmware code for the SmartCup project, a unique cup that informs users about their beverage's temperature and ensures it's maintained at a preferred heat level.
 
